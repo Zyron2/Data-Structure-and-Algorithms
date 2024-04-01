@@ -1,3 +1,4 @@
+This application aims to solve 10 equations and graphs them one by one or all of them. Given the value of 1 - 50. The Equations must be read from a text file and the output of the equation will be written in another text file. Afterwards it prompts the user to choose if it wants to graph a specific equation or all 10 equations.
 # Data-Structure-and-Algorithms
 ![image](https://github.com/Zyron2/Data-Structure-and-Algorithms/assets/143956703/c0635374-1361-49a2-9fe9-bbf5d40580d8)
 ![image](https://github.com/Zyron2/Data-Structure-and-Algorithms/assets/143956703/50968de1-0873-4035-b0ff-af523e8956df)
